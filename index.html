@@ -185,6 +185,23 @@
       font-size: 1.2rem;
     }
 
+    .feedback-message {
+      margin-top: 12px;
+      background: #f6f9ff;
+      border: 1px solid #d5e2ff;
+      color: #21304a;
+      border-radius: 10px;
+      padding: 10px 12px;
+      font-weight: 600;
+    }
+
+    .confetti-canvas {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 9999;
+    }
+
     .is-hidden {
       display: none;
     }
@@ -407,6 +424,76 @@
       });
     }
 
+    function getFeedbackMessage(correct, total) {
+      if (correct === 0) {
+        return "Você não respondeu corretamente nenhuma questão. Tente novamente!";
+      }
+      if (correct === total) {
+        return "Parabéns! Você acertou todas as questões!";
+      }
+      if (correct < total / 2) {
+        return `Você acertou ${correct} de ${total} questões. Continue praticando para melhorar!`;
+      }
+      return `Bom trabalho! Você acertou ${correct} de ${total} questões. Com um pouco mais de prática, você pode acertar todas!`;
+    }
+
+    function launchConfetti() {
+      const canvas = document.createElement("canvas");
+      canvas.className = "confetti-canvas";
+      document.body.appendChild(canvas);
+      const ctx = canvas.getContext("2d");
+
+      const resize = () => {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+      };
+      resize();
+
+      const colors = ["#0d6efd", "#1f9d55", "#f59e0b", "#d03a3a", "#7c3aed"];
+      const pieces = Array.from({ length: 140 }, () => ({
+        x: Math.random() * canvas.width,
+        y: -20 - Math.random() * canvas.height * 0.4,
+        vx: -2 + Math.random() * 4,
+        vy: 2 + Math.random() * 4,
+        size: 5 + Math.random() * 7,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * Math.PI * 2,
+        vr: -0.15 + Math.random() * 0.3
+      }));
+
+      let start = 0;
+      const duration = 2200;
+
+      function frame(timestamp) {
+        if (!start) start = timestamp;
+        const elapsed = timestamp - start;
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        pieces.forEach((p) => {
+          p.x += p.vx;
+          p.y += p.vy;
+          p.vy += 0.03;
+          p.rot += p.vr;
+
+          ctx.save();
+          ctx.translate(p.x, p.y);
+          ctx.rotate(p.rot);
+          ctx.fillStyle = p.color;
+          ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size * 0.6);
+          ctx.restore();
+        });
+
+        if (elapsed < duration) {
+          requestAnimationFrame(frame);
+        } else {
+          canvas.remove();
+        }
+      }
+
+      requestAnimationFrame(frame);
+      setTimeout(() => canvas.remove(), duration + 300);
+    }
+
     function saveSummary() {
       let correct = 0;
 
@@ -416,28 +503,13 @@
           correct += 1;
         }
       });
-
-      if (correct === 0) {
-        alert("Você não respondeu corretamente nenhuma questão. Tente novamente!");
-        return;
-      }
-
-      else if (correct === questions.length) {
-        alert("Parabéns! Você acertou todas as questões!");
-        return;
-      }
-
-      else if (correct < questions.length / 2) {
-        alert(`Você acertou ${correct} de ${questions.length} questões. Continue praticando para melhorar!`);
-      } else {
-        alert(`Bom trabalho! Você acertou ${correct} de ${questions.length} questões. Com um pouco mais de prática, você pode acertar todas!`);
-      }
       applyAnswerHighlights();
 
       const total = questions.length;
       const wrong = total - correct;
       const rightPct = ((correct / total) * 100).toFixed(1);
       const wrongPct = ((wrong / total) * 100).toFixed(1);
+      const feedbackMessage = getFeedbackMessage(correct, total);
 
       let sheet = document.getElementById("resultsSheet");
       if (!sheet) {
@@ -461,7 +533,12 @@
             <div>${wrongPct}%</div>
           </div>
         </div>
+        <div class="feedback-message">${feedbackMessage}</div>
       `;
+
+      if ((correct / total) > 0.8) {
+        launchConfetti();
+      }
 
       sheet.scrollIntoView({ behavior: "smooth", block: "start" });
     }
