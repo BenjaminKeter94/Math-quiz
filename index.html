@@ -90,6 +90,16 @@
       background: #fbfdff;
     }
 
+    .choice.is-correct {
+      border-color: #1f9d55;
+      background: #eafaf0;
+    }
+
+    .choice.is-wrong {
+      border-color: #d03a3a;
+      background: #fdeaea;
+    }
+
     .choice input {
       margin-top: 2px;
       transform: scale(1.1);
@@ -371,11 +381,30 @@
       quizForm.querySelectorAll("input[type='radio']").forEach((i) => {
         i.checked = false;
       });
+      clearHighlights();
       const existingSheet = document.getElementById("resultsSheet");
       if (existingSheet) {
         existingSheet.remove();
       }
       updateStatus();
+    }
+
+    function clearHighlights() {
+      quizForm.querySelectorAll(".choice").forEach((label) => {
+        label.classList.remove("is-correct", "is-wrong");
+      });
+    }
+
+    function applyAnswerHighlights() {
+      clearHighlights();
+      questions.forEach((q) => {
+        const checked = quizForm.querySelector(`input[name="q${q.id}"]:checked`);
+        if (!checked) return;
+        const label = checked.closest(".choice");
+        if (!label) return;
+        const isCorrect = Number(checked.value) === q.correctIndex;
+        label.classList.add(isCorrect ? "is-correct" : "is-wrong");
+      });
     }
 
     function saveSummary() {
@@ -387,6 +416,7 @@
           correct += 1;
         }
       });
+      applyAnswerHighlights();
 
       const total = questions.length;
       const wrong = total - correct;
