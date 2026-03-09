@@ -416,6 +416,22 @@
           correct += 1;
         }
       });
+
+      if (correct === 0) {
+        alert("Você não respondeu corretamente nenhuma questão. Tente novamente!");
+        return;
+      }
+
+      else if (correct === questions.length) {
+        alert("Parabéns! Você acertou todas as questões!");
+        return;
+      }
+
+      else if (correct < questions.length / 2) {
+        alert(`Você acertou ${correct} de ${questions.length} questões. Continue praticando para melhorar!`);
+      } else {
+        alert(`Bom trabalho! Você acertou ${correct} de ${questions.length} questões. Com um pouco mais de prática, você pode acertar todas!`);
+      }
       applyAnswerHighlights();
 
       const total = questions.length;
