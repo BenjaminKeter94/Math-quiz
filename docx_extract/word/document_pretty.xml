@@ -1,0 +1,4695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+<w:body>
+<w:p w14:paraId="0EDD3342" w14:textId="77777777" w:rsidR="00C85002" w:rsidRDefault="00C85002" w:rsidP="0025077E">
+<w:pPr>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Calibri"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="1C01BE74" w14:textId="567BD54A" w:rsidR="006820ED" w:rsidRPr="00C85002" w:rsidRDefault="00C85002" w:rsidP="00C85002">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C85002">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>Questão 1</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7A6F0637" w14:textId="0E8F8AEB" w:rsidR="006820ED" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">O valor de </w:t>
+</w:r>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>5</m:t>
+</m:r>
+</m:den>
+</m:f>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>÷</m:t>
+</m:r>
+<m:d>
+<m:dPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:dPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>-2</m:t>
+</m:r>
+</m:e>
+</m:d>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> é igual a:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="112A3427" w14:textId="062730C6" w:rsidR="006820ED" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">(A) </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>-</m:t>
+</m:r>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="522FD916" w14:textId="1A7A3BE8" w:rsidR="006820ED" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">(B) </w:t>
+</w:r>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5CCA9F7C" w14:textId="1A8CCBDB" w:rsidR="006820ED" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">(C) </w:t>
+</w:r>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>6</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5CF2DCD4" w14:textId="6F214DF0" w:rsidR="006820ED" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">(D) </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>-</m:t>
+</m:r>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>6</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="49524AEA" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="5BFA083C" w14:textId="0A3ABB3E" w:rsidR="00C85002" w:rsidRPr="00C85002" w:rsidRDefault="00C85002" w:rsidP="00C85002">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C85002">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>Questão 2</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="422A03AA" w14:textId="77777777" w:rsidR="00C85002" w:rsidRDefault="00C85002" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="15AC1216" w14:textId="33B22D20" w:rsidR="00CF38B7" w:rsidRDefault="00CF38B7" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">Na figura, o quadrilátero </w:t>
+</w:r>
+<m:oMath>
+<m:d>
+<m:dPr>
+<m:begChr m:val="["/>
+<m:endChr m:val="]"/>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:dPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>ABCD</m:t>
+</m:r>
+</m:e>
+</m:d>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> o quadrilátero é um papagaio.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3682B9F8" w14:textId="380CF540" w:rsidR="00CF38B7" w:rsidRDefault="00CF38B7" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">Sabendo que </w:t>
+</w:r>
+<m:oMath>
+<m:acc>
+<m:accPr>
+<m:chr m:val="̅"/>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:accPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>AC</m:t>
+</m:r>
+</m:e>
+</m:acc>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>=2 m</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidR="000508F4">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> e </w:t>
+</w:r>
+<m:oMath>
+<m:acc>
+<m:accPr>
+<m:chr m:val="̅"/>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:accPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>BD</m:t>
+</m:r>
+</m:e>
+</m:acc>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>=1,5 m</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidR="000508F4">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="227B4B84" w14:textId="6D43711C" w:rsidR="000508F4" w:rsidRDefault="006820ED" w:rsidP="00CF38B7">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00CF38B7">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:drawing>
+<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="6905B4A3" wp14:editId="7A9A30CF">
+<wp:simplePos x="0" y="0"/>
+<wp:positionH relativeFrom="column">
+<wp:posOffset>3401695</wp:posOffset>
+</wp:positionH>
+<wp:positionV relativeFrom="paragraph">
+<wp:posOffset>241935</wp:posOffset>
+</wp:positionV>
+<wp:extent cx="1913255" cy="873760"/>
+<wp:effectExtent l="57150" t="133350" r="48895" b="135890"/>
+<wp:wrapSquare wrapText="bothSides"/>
+<wp:docPr id="1389406086" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="1389406086" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId5" cstate="print">
+<a:extLst>
+<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+<a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+</a:ext>
+</a:extLst>
+</a:blip>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm rot="21122251">
+<a:off x="0" y="0"/>
+<a:ext cx="1913255" cy="873760"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+<wp14:sizeRelH relativeFrom="page">
+<wp14:pctWidth>0</wp14:pctWidth>
+</wp14:sizeRelH>
+<wp14:sizeRelV relativeFrom="page">
+<wp14:pctHeight>0</wp14:pctHeight>
+</wp14:sizeRelV>
+</wp:anchor>
+</w:drawing>
+</w:r>
+<w:r w:rsidR="000508F4">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>Qual é, em metros quadrados, a área do papagaio?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="114D4A69" w14:textId="5CCB17F1" w:rsidR="000508F4" w:rsidRDefault="000508F4" w:rsidP="000508F4">
+<w:pPr>
+<w:pStyle w:val="PargrafodaLista"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t xml:space="preserve">3 </m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>m</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2AC49CD0" w14:textId="3E7E7108" w:rsidR="000508F4" w:rsidRDefault="000508F4" w:rsidP="000508F4">
+<w:pPr>
+<w:pStyle w:val="PargrafodaLista"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t xml:space="preserve">2 </m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>m</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="78B8DF0B" w14:textId="7FB582B1" w:rsidR="000508F4" w:rsidRPr="000508F4" w:rsidRDefault="000508F4" w:rsidP="000508F4">
+<w:pPr>
+<w:pStyle w:val="PargrafodaLista"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t xml:space="preserve">1,5 </m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>m</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="622C9A3D" w14:textId="1163AC50" w:rsidR="000508F4" w:rsidRPr="001C0DF1" w:rsidRDefault="000508F4" w:rsidP="006820ED">
+<w:pPr>
+<w:pStyle w:val="PargrafodaLista"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t xml:space="preserve">0,75 </m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>m</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="0F16508D" w14:textId="5FFD2491" w:rsidR="00EA1D7B" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="4F001013" w14:textId="77777777" w:rsidR="00C85002" w:rsidRPr="00662924" w:rsidRDefault="00C85002" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>Questão 3</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7D9F8735" w14:textId="36FACFBB" w:rsidR="00EA1D7B" w:rsidRPr="00C85002" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> Qual é o valor de </w:t>
+</w:r>
+<m:oMath>
+<m:d>
+<m:dPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:dPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>-</m:t>
+</m:r>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>4</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:e>
+</m:d>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>÷</m:t>
+</m:r>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>1</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>4</m:t>
+</m:r>
+</m:den>
+</m:f>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<m:t>×(-1)</m:t>
+</m:r>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> ?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="00606156" w14:textId="0758B152" w:rsidR="00EA1D7B" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>(A) 48</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="783C7689" w14:textId="0AFC4F32" w:rsidR="00EA1D7B" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>(B) – 3</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="00605BAE" w14:textId="70D02CED" w:rsidR="00EA1D7B" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>(C) - 48</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2200CAA2" w14:textId="1B5A432F" w:rsidR="00EA1D7B" w:rsidRPr="000508F4" w:rsidRDefault="00EA1D7B" w:rsidP="006820ED">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="both"/>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>(D) 3</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2ECCD780" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="16C4F194" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="399F133B" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="054B5131" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="1F0D7527" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="6DDB7304" w14:textId="3576865D" w:rsidR="00662924" w:rsidRPr="00662924" w:rsidRDefault="00662924" w:rsidP="00662924">
+<w:pPr>
+<w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>4</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="06685A20" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="17377630" w14:textId="16D8635B" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">O produto de 7 milhões por </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>21×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>5</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> é:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="45BDCEE7" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>147×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>5</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="1DB75EFE" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7×21×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>9</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="1EC3FF68" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7×21×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>11</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="6029F70C" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="2"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>1,47×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="44F75F07" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="36BFFE85" w14:textId="7C0317E0" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>5</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="610556F3" w14:textId="574615D2" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">Qual dos números representa o produto </w:t>
+</w:r>
+<m:oMath>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>4</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>5</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>×</m:t>
+</m:r>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="24E58617" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="3"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>6</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="1455E3B8" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="3"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="3E0DC8A2" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="3"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>8</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="31D6D0EF" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="3"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:sSup>
+<m:sSupPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:sSupPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>10</m:t>
+</m:r>
+</m:e>
+<m:sup>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>9</m:t>
+</m:r>
+</m:sup>
+</m:sSup>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="7CFE506D" w14:textId="6671CD30" w:rsidR="0025077E" w:rsidRDefault="0025077E"/>
+<w:p w14:paraId="0417B6E6" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1"/>
+<w:p w14:paraId="7EF019AB" w14:textId="35A24894" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>6</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4CDC0B20" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1"/>
+<w:p w14:paraId="7BD4403E" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="5E473B0B" wp14:editId="6DB10CE1">
+<wp:extent cx="5400040" cy="1040765"/>
+<wp:effectExtent l="0" t="0" r="0" b="6985"/>
+<wp:docPr id="234884000" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="234884000" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId6"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="5400040" cy="1040765"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="18B1840F" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>Observa a figura, em que os pontos A, B e C pertencem à mesma reta. Qual das seguintes expressões representa a distância ente A e C?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6D23FEE6" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="4"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:firstLine="708"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>12x+9</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="18F6BA63" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="4"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:firstLine="708"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>2x-3</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="4C59331E" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="4"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:firstLine="708"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3-2x</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="150AE6DC" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="4"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:firstLine="708"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7x+3</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="12EBC3C2" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1"/>
+<w:p w14:paraId="7526F4C1" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1"/>
+<w:p w14:paraId="5204F31B" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="4EB89525" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="6DC8F1C5" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="251860CC" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="7D6E35A6" w14:textId="50F01311" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>7</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="600E2E8B" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>A percentagem da letra A na palavra MATEMÁTICA é:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1B1C6756" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="5"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>0,03 %</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="2BB503BE" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="5"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3 %</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5A5D5E06" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="5"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>30 %</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="4AECE964" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="5"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>70 %</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="27EB45FD" w14:textId="09704459" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1"/>
+<w:p w14:paraId="7B880563" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924"/>
+<w:p w14:paraId="042E24FC" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924"/>
+<w:p w14:paraId="5A9DC55C" w14:textId="199C3F4B" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>8</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="50B7A81A" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="30B8DD04" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="32387B2B" wp14:editId="3BD9F118">
+<wp:extent cx="4457065" cy="733760"/>
+<wp:effectExtent l="0" t="0" r="635" b="9525"/>
+<wp:docPr id="702190614" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="702190614" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId7"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="4497879" cy="740479"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="3F03A7B0" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">A figura representa uma sequência formada por quadrados. O perímetro da primeira figura é </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>40 cm</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>. Qual é o perímetro da figura 4?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0A44DE7C" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="6"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>80 cm</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="0F1802D5" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="6"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>100 cm</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="2731594E" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="6"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>130 cm</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="2B3BDA75" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="6"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>140 cm</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="2662B4EF" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="3AB31438" w14:textId="77777777" w:rsidR="00C85002" w:rsidRDefault="00C85002" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="5CA6322A" w14:textId="5A88EF7E" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="2CF910F7" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="7F49BB4D" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="79A964E8" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="4112197D" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="41A59BEC" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="1494A61E" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="3DB783CF" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="28F6C58D" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="52C776EB" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="6B37A05A" w14:textId="77777777" w:rsidR="00662924" w:rsidRDefault="00662924" w:rsidP="00C85002">
+<w:pPr>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="02EEA2C6" w14:textId="1CD09236" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">Questão </w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>9</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7B5754E0" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="60601B6C" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="155FF266" wp14:editId="1CE2E2A3">
+<wp:extent cx="2047875" cy="1144400"/>
+<wp:effectExtent l="0" t="0" r="0" b="0"/>
+<wp:docPr id="257223610" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="257223610" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId8"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="2069097" cy="1156259"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="6208D66C" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>A Matilde conseguiu equilibrar uma balança distribuindo um peso de 60 g e 9 lápis de cor todos de igual massa pelos dois pratos. Qual é a massa de cada um dos lápis?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0816E56C" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="8"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>15 g</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="716C2132" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="8"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>18 g</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5C426782" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="8"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>20 g</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7A89D93D" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="8"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>30 g</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="26EE3C93" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="0367E1F3" w14:textId="13973103" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>0</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4C08FB34" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">O número </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>-1</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> é solução de qual das equações seguintes?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0F99EA36" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="9"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3+3x=10</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="1EBAD7CF" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="9"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>15x-x=6x+8</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="00F5F0E7" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="9"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>13x-7=12x-8</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="76277314" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="9"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>22x-22=15x-15</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5E340582" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="16876328" w14:textId="361CEFAE" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>1</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="62F3AD47" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="394B5C07" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="32922930" wp14:editId="2C42E929">
+<wp:extent cx="5400040" cy="673100"/>
+<wp:effectExtent l="0" t="0" r="0" b="0"/>
+<wp:docPr id="390811830" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="390811830" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId9"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="5400040" cy="673100"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="1B164D37" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>Numa caixa, os bombons de chocolate branco estão dispostos entre filas de chocolate negro. Qual é o número total de bombons da caixa de ordem 10?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="419CF432" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="10"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>40</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3D510B5D" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="10"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>32</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="692DC985" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="10"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>22</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1C98F23F" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="10"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>10</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0630568A" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="79768568" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="1E6CC8BF" w14:textId="69C501CE" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2143972B" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">A Cátia comeu  </w:t>
+</w:r>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>1</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>5</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">  de uma tarte e o Júlio comeu  </w:t>
+</w:r>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>1</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>4</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">  da mesma tarte. Que parte da tarte sobrou?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="390B0EDC" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="11"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>9</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>20</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="7845D746" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:left="720"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="2A6091F7" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="11"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>2</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="55CC7C2F" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:ind w:left="720"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="20C4ED8B" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="11"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>7</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>9</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="3DD9B880" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="6487D985" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="00000000" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="11"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:f>
+<m:fPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:fPr>
+<m:num>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>11</m:t>
+</m:r>
+</m:num>
+<m:den>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>20</m:t>
+</m:r>
+</m:den>
+</m:f>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5572A72D" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="3045EC46" w14:textId="389767E9" w:rsidR="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="78808A90" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">O valor numérico da expressão </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3+a-</m:t>
+</m:r>
+<m:d>
+<m:dPr>
+<m:ctrlPr>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:i/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</m:ctrlPr>
+</m:dPr>
+<m:e>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>-b</m:t>
+</m:r>
+</m:e>
+</m:d>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>+1</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> para </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>a=-2</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> e </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>b=2</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> é:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7650A282" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="12"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>4</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0E773A29" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="12"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>1</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0EFEDDC9" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="12"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="628F25E9" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="12"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001C0DF1">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="28AE36D6" w14:textId="77777777" w:rsidR="001C0DF1" w:rsidRPr="001C0DF1" w:rsidRDefault="001C0DF1" w:rsidP="001C0DF1">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="7506341C" w14:textId="2051872C" w:rsidR="001C0DF1" w:rsidRDefault="000F4EC3" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>4</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="75D9D227" w14:textId="77777777" w:rsidR="000F4EC3" w:rsidRPr="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="000F4EC3">
+<w:pPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000F4EC3">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve">O Miguel foi ao bar da escola, mas como não tinha dinheiro ficou a dever </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>2,30</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="000F4EC3">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros. No dia seguinte a mãe deu lhe 5 euros. O Miguel pagou a divida e ainda pediu uma sandes que custava </w:t>
+</w:r>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>0,80</m:t>
+</m:r>
+</m:oMath>
+<w:r w:rsidRPr="000F4EC3">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros. Com quanto dinheiro ficou no final?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="406014E2" w14:textId="105F1DED" w:rsidR="000F4EC3" w:rsidRPr="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="000F4EC3">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3,5</m:t>
+</m:r>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="410DFF8A" w14:textId="57B1DF3F" w:rsidR="000F4EC3" w:rsidRPr="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="000F4EC3">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>1,9</m:t>
+</m:r>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="51111804" w14:textId="28BD648E" w:rsidR="000F4EC3" w:rsidRPr="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="000F4EC3">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>4,2</m:t>
+</m:r>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="17D324DA" w14:textId="3C90DBC0" w:rsidR="000F4EC3" w:rsidRPr="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="000F4EC3">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>3,1</m:t>
+</m:r>
+</m:oMath>
+<w:r>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t xml:space="preserve"> euros</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3267670B" w14:textId="77777777" w:rsidR="000F4EC3" w:rsidRDefault="000F4EC3" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="0D73F0C8" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="1ED8ECC5" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="33B592A6" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="2252CF6F" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="58A1B71D" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="04F089FC" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="36A44166" w14:textId="18DC73F0" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="005B79DA">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Questão 1</w:t>
+</w:r>
+<w:r w:rsidR="00662924">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:b/>
+<w:bCs/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>5</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="566DB0D5" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2865"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="005B79DA">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:noProof/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="7F59D0A5" wp14:editId="33A63E15">
+<wp:extent cx="2257425" cy="1324161"/>
+<wp:effectExtent l="0" t="0" r="0" b="9525"/>
+<wp:docPr id="785780524" name="Imagem 1"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="785780524" name=""/>
+<pic:cNvPicPr/>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId10"/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr>
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="2275152" cy="1334559"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="4925BFDC" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="005B79DA">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>Observa a balança que está em equilíbrio.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="483E24A7" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="005B79DA">
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<w:t>Qual é a massa da bola azul?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1310EA52" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="14"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>26 Kg</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="0AFA027E" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="14"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>30 Kg</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="343E3FD1" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="14"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>33 Kg</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="5322F690" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="005B79DA" w:rsidRDefault="005B79DA" w:rsidP="005B79DA">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="14"/>
+</w:numPr>
+<w:tabs>
+<w:tab w:val="left" w:pos="2085"/>
+</w:tabs>
+<w:spacing w:line="278" w:lineRule="auto"/>
+<w:contextualSpacing/>
+<w:rPr>
+<w:rFonts w:eastAsiaTheme="minorEastAsia"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:pPr>
+<m:oMath>
+<m:r>
+<w:rPr>
+<w:rFonts w:ascii="Cambria Math" w:eastAsiaTheme="minorEastAsia" w:hAnsi="Cambria Math"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+<m:t>27 Kg</m:t>
+</m:r>
+</m:oMath>
+</w:p>
+<w:p w14:paraId="09FDF73F" w14:textId="77777777" w:rsidR="005B79DA" w:rsidRPr="001C0DF1" w:rsidRDefault="005B79DA" w:rsidP="001C0DF1">
+<w:pPr>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:sectPr w:rsidR="005B79DA" w:rsidRPr="001C0DF1">
+<w:pgSz w:w="11906" w:h="16838"/>
+<w:pgMar w:top="1417" w:right="1701" w:bottom="1417" w:left="1701" w:header="708" w:footer="708" w:gutter="0"/>
+<w:cols w:space="708"/>
+<w:docGrid w:linePitch="360"/>
+</w:sectPr>
+</w:body>
+</w:document>
